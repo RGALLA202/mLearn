@@ -12,8 +12,10 @@ If you would like to participate please read the below information, you can stop
 
 Aim of Project: To develop and evaluate an effective m-learning app for android devices. Its purpose is to support an introduction to HTML and CSS, allowing the students to develop their knowledge in a more informal setting outside of the classroom. This will be accomplished using google drive, short snippets of information through a variety of multimedia along with quiz challenges to test student understanding. The app will be used alongside current resources.
 
-Points to note: The Google drive feature was uncompleted within the time frame. This feature could be added in future iterations. The purpose of this feature was intended to allow the user(s) access to learning materials within the same application.
-Furthermore Known bug: when in "portraite" in the video tutorial section, if you select fullscreen the app will freeze/crash. However if you rotate to landscape first then select fullscreen this works as expected.
+Points to note: 
+ - The Google drive feature was uncompleted within the time frame. This feature could be added in future iterations. The purpose of     this   feature was intended to allow the user(s) access to learning materials within the same application.
+ - In the Revision Material Section, "Real Information" is used in  BASIC HTML,BASIC CSS, Colors while the other topics are filled with fake text. These extra topics are siply to demonstrate how the app would look if more topics were added.
+ - Furthermore Known bug: when in "portraite" in the video tutorial section, if you select fullscreen the app will freeze/crash. However if you rotate to landscape first then select fullscreen this works as expected.
 
 Thank you for having an interest in this project and taking the time to read this sheet.
 
