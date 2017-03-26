@@ -17,6 +17,8 @@ Furthermore Known bug: when in "portraite" in the video tutorial section, if you
 
 Thank you for having an interest in this project and taking the time to read this sheet.
 
+Link to Questionnaire: https://docs.google.com/forms/d/e/1FAIpQLSe5v606CTkvb_unhKcTgpis7RDKAVC95OQctdSCO5op4Fj9bQ/viewform?usp=sf_link
+
 Contact Details:
 Researcher: Ryan Gallacher
 Email: RGALLA202@caledonian.ac.uk
